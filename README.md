@@ -591,6 +591,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
   * [OpenVPN](https://community.openvpn.net) - Uses a custom security protocol that utilizes SSL/TLS for key exchange.
   * [Pritunl](http://pritunl.com/) - OpenVPN based solution. Easy to set up.
+  * [shadowsokcs](https://github.com/shadowsocks) A fast tunnel proxy that helps you bypass firewalls
   * [SoftEther](https://www.softether.org/) - Multi-protocol software VPN with advanced features
   * [sshuttle](https://github.com/apenwarr/sshuttle) - Poor man's VPN.
   * [strongSwan](https://www.strongswan.org/) - Complete IPsec implementation for Linux.
